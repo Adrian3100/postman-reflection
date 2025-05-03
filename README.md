@@ -50,3 +50,5 @@ Correct usage of query parameters is crucial when working with APIs. They define
 }
 ]
 }
+```
+![Alt text](/Screenshot%20(22).png "githubAPI")
